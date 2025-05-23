@@ -7,42 +7,34 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:667525490941:android:f997fd44c92f5ec2083694",
+        "mobilesdk_app_id": "1:667525490941:android:edc669e523192aa1083694",
         "android_client_info": {
-          "package_name": "com.atonik.atonik"
+          "package_name": "com.atonik.Atonik"
         }
       },
       "oauth_client": [
         {
-          "client_id": "667525490941-p9ap4qhc72mo94sqr5fp64o7cpoqtl7u.apps.googleusercontent.com",
+          "client_id": "667525490941-33md41dk3m35r6ddte2n4tttfj16ip9e.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.atonik.atonik",
-            "certificate_hash": "c5faaa7cc0a39078cd97a1aa2953c88cab29ea1f"
+            "package_name": "com.atonik.Atonik",
+            "certificate_hash": "98d9b0f0a22324b7eba9704938d1da99be611303"
           }
-        },
-        {
-          "client_id": "667525490941-1o9tumj5tisa18b52pal7te3vcdeoddc.apps.googleusercontent.com",
-          "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAKgGEk3uUrrtBFBDuLwfz-Rupy_KG9t_s"
+          "current_key": "AIzaSyDEB1jL4Y75Oh7a34Gi8FAiJ0wcIrEJkyk"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "667525490941-1o9tumj5tisa18b52pal7te3vcdeoddc.apps.googleusercontent.com",
-              "client_type": 3
-            },
-            {
-              "client_id": "667525490941-k259j62ahsebmeg6b59j2nssegdhnqct.apps.googleusercontent.com",
+              "client_id": "667525490941-ntarennmi34krbomrtaef3an0bcobsf7.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "com.atonik.atoniksignup"
+                "bundle_id": "com.atonik.Atonik"
               }
             }
           ]
